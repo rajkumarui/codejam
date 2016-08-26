@@ -4,5 +4,5 @@
 - Counting Sheep
 - Revenge of the Pancakes
 
-##### These are done using jquery and javascript
+These are done using jquery and javascript
 
